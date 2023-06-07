@@ -6,6 +6,9 @@
 /workspaces/aspnet/ContosoPizza/bin/Debug/net7.0/ContosoPizza.dll
 /workspaces/aspnet/ContosoPizza/bin/Debug/net7.0/ContosoPizza.pdb
 /workspaces/aspnet/ContosoPizza/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/workspaces/aspnet/ContosoPizza/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/workspaces/aspnet/ContosoPizza/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/workspaces/aspnet/ContosoPizza/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
 /workspaces/aspnet/ContosoPizza/bin/Debug/net7.0/Microsoft.OpenApi.dll
 /workspaces/aspnet/ContosoPizza/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
 /workspaces/aspnet/ContosoPizza/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
